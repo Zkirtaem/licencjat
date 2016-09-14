@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">licencjat</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_add_student">addStudentActivity</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="title_activity_add_zajecia">addZajeciaActivity</string>
+    <string name="title_activity_zajecia_rozpoczete">ZajeciaRozpoczeteActivity</string>
+    <string name="title_activity_first">firstActivity</string>
+</resources>
