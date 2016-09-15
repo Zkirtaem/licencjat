@@ -2,39 +2,39 @@
 <items version="2" >
 
     <item
+        jar="/home/zkirtaem/AndroidStudioProjects/licencjat/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/libs/internal_impl-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="/home/zkirtaem/AndroidStudioProjects/licencjat/app/build/intermediates/pre-dexed/release/internal_impl-23.0.1-8631b1532ae745b921c49adece7f7189f292a8bf.jar" />
+    </item>
+    <item
         jar="/home/zkirtaem/AndroidStudioProjects/licencjat/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
         jumboMode="false"
         revision="23.0.2"
         sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
-        <dex dex="/home/zkirtaem/AndroidStudioProjects/licencjat/app/build/intermediates/pre-dexed/debug/classes-f2146af9f6dc601729f70d577f748076b19dbffe.jar" />
+        <dex dex="/home/zkirtaem/AndroidStudioProjects/licencjat/app/build/intermediates/pre-dexed/release/classes-f2146af9f6dc601729f70d577f748076b19dbffe.jar" />
     </item>
     <item
         jar="/home/zkirtaem/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/23.0.1/support-annotations-23.0.1.jar"
         jumboMode="false"
         revision="23.0.2"
         sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
-        <dex dex="/home/zkirtaem/AndroidStudioProjects/licencjat/app/build/intermediates/pre-dexed/debug/support-annotations-23.0.1-6436d6d8f7282787dc7508c36d416bd8e7b5dcc4.jar" />
-    </item>
-    <item
-        jar="/home/zkirtaem/AndroidStudioProjects/licencjat/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/libs/internal_impl-23.0.1.jar"
-        jumboMode="false"
-        revision="23.0.2"
-        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
-        <dex dex="/home/zkirtaem/AndroidStudioProjects/licencjat/app/build/intermediates/pre-dexed/debug/internal_impl-23.0.1-8631b1532ae745b921c49adece7f7189f292a8bf.jar" />
+        <dex dex="/home/zkirtaem/AndroidStudioProjects/licencjat/app/build/intermediates/pre-dexed/release/support-annotations-23.0.1-6436d6d8f7282787dc7508c36d416bd8e7b5dcc4.jar" />
     </item>
     <item
         jar="/home/zkirtaem/AndroidStudioProjects/licencjat/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/classes.jar"
         jumboMode="false"
         revision="23.0.2"
         sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
-        <dex dex="/home/zkirtaem/AndroidStudioProjects/licencjat/app/build/intermediates/pre-dexed/debug/classes-581be845fae8f5357aeba8be3179058219c4a62c.jar" />
+        <dex dex="/home/zkirtaem/AndroidStudioProjects/licencjat/app/build/intermediates/pre-dexed/release/classes-581be845fae8f5357aeba8be3179058219c4a62c.jar" />
     </item>
     <item
         jar="/home/zkirtaem/AndroidStudioProjects/licencjat/app/build/intermediates/exploded-aar/com.android.support/design/23.0.1/jars/classes.jar"
         jumboMode="false"
         revision="23.0.2"
         sha1="e5c61a3169221a89654ffcaaed47bba51cf071ad">
-        <dex dex="/home/zkirtaem/AndroidStudioProjects/licencjat/app/build/intermediates/pre-dexed/debug/classes-a14d1f5d5a97599fe9352c574b097671b0143bb4.jar" />
+        <dex dex="/home/zkirtaem/AndroidStudioProjects/licencjat/app/build/intermediates/pre-dexed/release/classes-a14d1f5d5a97599fe9352c574b097671b0143bb4.jar" />
     </item>
 
 </items>
